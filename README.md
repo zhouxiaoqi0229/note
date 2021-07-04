@@ -53,4 +53,4 @@
 
   - 电影名：统计电影名里的所有单词，每个单词映射为一个数字，把电影名转成对应的数字，长度统一为15，不够的填充
 
-![structure](C:\Users\小七\Downloads\structure.png)
+![structure](\structure.png)
